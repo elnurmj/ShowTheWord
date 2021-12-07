@@ -1,0 +1,14 @@
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.csproj.AssemblyReference.cache
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.AssemblyInfoInputs.cache
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.AssemblyInfo.cs
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\bin\Debug\netcoreapp3.1\ShowTheWord.exe
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\bin\Debug\netcoreapp3.1\ShowTheWord.deps.json
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\bin\Debug\netcoreapp3.1\ShowTheWord.runtimeconfig.json
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\bin\Debug\netcoreapp3.1\ShowTheWord.runtimeconfig.dev.json
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\bin\Debug\netcoreapp3.1\ShowTheWord.dll
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\bin\Debug\netcoreapp3.1\ShowTheWord.pdb
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.dll
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.pdb
+C:\Users\Elnur\Desktop\Showtheword\ShowTheWord\ShowTheWord\obj\Debug\netcoreapp3.1\ShowTheWord.genruntimeconfig.cache
